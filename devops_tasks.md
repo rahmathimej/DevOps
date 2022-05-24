@@ -29,5 +29,6 @@
 | Cloud - AWS Interface | Python | Cloud Components | Boto Framework for automating/managing cloud resources like ec2,s3
 | Cloud - GCP | Python | Cloud Components | GCP SDK to automated/manage resources
 | Automating Files and Filesystem | Python, Regular Expression | Reading, Modifying and searching text on configuration files etc | os module, watchdog API for filesystem event monitoring
+| Automate the Ec2 patching | AWS System Manger | Patch Management | Tag all the Ec2 under Managed instance and schdule the patch management task  
 
 Credits: Thanks to my friends and colleagues :). Please contribute to this and help others.
